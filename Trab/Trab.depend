@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567278903 source:d:\c code\trab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
